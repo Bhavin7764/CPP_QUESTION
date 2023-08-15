@@ -7,7 +7,7 @@ C++ is a programming language that was developed in the early 1972s and has beco
 
 
 
-![Lab Assignments - C Programming - Final (1)-1](https://user-images.githubusercontent.com/111748076/206483864-ef9aa8ff-6167-415a-9e92-df2607effd32.jpg)
+![Lab Assignments - C Programming - Final (1)-1]("C:\Users\Asus\OneDrive\Desktop\cpp tutorial\1.jpg")
 
 ![Lab Assignments - C Programming - Final (1)-2](https://user-images.githubusercontent.com/111748076/206483872-de26440c-5b14-4182-a63a-6e8295e3ae97.jpg)
 
