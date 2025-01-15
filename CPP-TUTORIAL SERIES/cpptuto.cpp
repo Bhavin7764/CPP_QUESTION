@@ -7,9 +7,9 @@ int main()
     cout<<"Hello world";     // OUTPUT = Hello world // 
 }
 
-//Q-2 VARIABLE :- IT is name of memory location which is used to some data.
+/*Q-2 VARIABLE :- IT is name of memory location which is used to some data.
 There are two types of variable.(1) local variable :- They look at  any type of fumction (2) gloabal variable :- They look at  any type , out offumction.
-    note:- local variable value take high precedence // 
+    note:- local variable value take high precedence */
 
 #include<iostream>
 using namespace std;
